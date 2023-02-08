@@ -4,5 +4,6 @@
   "documentation": "https://github.com/chadcb/ha-synergyvue",
   "requirements": ["synergyvue==0.0.3"],
   "dependencies": [],
-  "codeowners": ["@chadcb"]
+  "codeowners": ["@chadcb"],
+  "version": "0.0.3"
 }
